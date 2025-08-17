@@ -37,5 +37,5 @@ The goal is to create a **secure, family-friendly browsing environment** without
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/your-username/sankatmochan.git
+git clone https://github.com/AbhinavBhardawaj/Sankat-Mochan.git
 cd sankatmochan
